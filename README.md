@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # praktik14
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
